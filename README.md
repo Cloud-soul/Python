@@ -71,3 +71,11 @@ datetime_api/
 ├── manage.py
 └── README.md                # Project README
 ```
+
+## Docker File
+
+Docker image has been build and push to Docker Hub. Available at:
+
+```
+https://hub.docker.com/repository/docker/hammad2024/datetime-api/general
+```
